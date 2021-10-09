@@ -19,6 +19,7 @@ Tested cursor.execute and cursor.executemany
 
 Code to enter values into two table with relationship making sure that pk and fk match everytime.
 Got Pycharm, VScode, Sublime Text to recognize my modules.
+
 🐢 10/08
 
 Started using VScode instead of JupyterNB because it is easier to see my files and  has more functionality. I see why people use it now.
