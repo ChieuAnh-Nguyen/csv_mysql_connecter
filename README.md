@@ -25,3 +25,9 @@ Got Pycharm, VScode, Sublime Text to recognize my modules.
 Started using VScode instead of JupyterNB because it is easier to see my files and  has more functionality. I see why people use it now.
 Pushed code to repository using git.
 Created .gitignore file and added a directory and file to it.
+
+Thoughts:
+Why don't everyone use Jupyter Notebook instead of scripts? Afterall, you can quickly visualize your code and run small chunks or all at the same time..
+
+Answer:
+https://towardsdatascience.com/5-reasons-why-you-should-switch-from-jupyter-notebook-to-scripts-cb3535ba9c95
