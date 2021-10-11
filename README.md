@@ -31,3 +31,7 @@ Why don't everyone use Jupyter Notebook instead of scripts? Afterall, you can qu
 
 Answer:
 https://towardsdatascience.com/5-reasons-why-you-should-switch-from-jupyter-notebook-to-scripts-cb3535ba9c95
+
+🐢 10/11
+
+Realized I had my password in my ipynb file so I deleted its history on Github using "git filter-branch --index-filter 'git rm --cached --ignore-unmatch mysql_connector_python.ipynb' HEAD", removed the credentials and created a credentials file for mysql_connector_python.ipynb to reference. 
